@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Intent Indra</string>
+    <string name="move_activity">Pindah Activity</string>
+    <string name="move_with_data">Pindah Activity dengan Data</string>
+    <string name="dial_number">Pangggil Telepon</string>
+    <string name="move_with_result">Pindah Activity Hasil</string>
+    <string name="result_from_activity">Hasil dari Activity</string>
+    <string name="choose_color">Pilih warna kesukaan</string>
+    <string name="_black">Hitam</string>
+    <string name="_white">Putih</string>
+    <string name="_red">Merah</string>
+    <string name="choose">Pilih</string>
+    <string name="data_received">Data diterima</string>
+    <string name="this_ismove_activity">Ini Pindah Activity</string>
+</resources>
